@@ -6,7 +6,7 @@ A new Flutter project.
 ## Steps to Run App
 1. Install git
 2. Setup android studio and install flutter plugins
-3. Clone project using Command- git clone https://github.com/vikas2dx/news_app_dio.git
+3. Clone project using Command- git clone https://github.com/vikas2dx/news_app_api_dio.git
 4. Open Project in Android Studio
 5. In terminal run command in project directory:-  flutter pub get
 6. In terminal run command in project directory:-  flutter pub run build_runner build
